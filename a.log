@@ -1,0 +1,10 @@
+ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: 10.232.4.44:3900;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
+ERROR:root:rest failed:: host: image-tfs.config-vip.taobao.com:3100;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: Unable to find the server at image-tfs.config-vip.taobao.com

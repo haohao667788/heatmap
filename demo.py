@@ -19,11 +19,11 @@ tfs_img_file = tfs.writeFile(img_content)
 print 'upload local image:%s to tfs:%s' % (f, tfs_img_file)
 
 # delete file from tfs
-ret = tfs.delFile(tfs_img_file)
-if ret == True:
-    print 'delete tfs file:%s succ.' % tfs_img_file
-else:
-    print 'delete tfs file:%s failed.' % tfs_img_file
+# ret = tfs.delFile(tfs_img_file)
+# if ret == True:
+#     print 'delete tfs file:%s succ.' % tfs_img_file
+# else:
+#     print 'delete tfs file:%s failed.' % tfs_img_file
 
 
 print 'Done.'

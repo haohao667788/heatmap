@@ -1,10 +1,70 @@
-ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: 10.232.4.44:3900;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: 10.232.4.44:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /url.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: restful-store.vip.tbsite.net:3800;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: timed out
-ERROR:root:rest failed:: host: image-tfs.config-vip.taobao.com:3100;; url: /tfs.list;; body: -;; method: GET;; headers: {};;error: Unable to find the server at image-tfs.config-vip.taobao.com
+INFO:root:#####loading data from 1.6659421#####
+INFO:root:#####loading data from 1.6659421#####
+INFO:root:total lines: 582340
+INFO:root:painting..
+INFO:root:89.9817
+INFO:root:1.6659421 done.
+INFO:root:####################
+INFO:root:start transform heat_1.6659421
+INFO:root:#####loading data from 1.6659421#####
+INFO:root:total lines: 582340
+INFO:root:painting..
+INFO:root:92.611678
+INFO:root:1.6659421 done.
+INFO:root:####################
+INFO:root:start transform heat_1.6659421
+INFO:root:Upload Tfs file:TB1RE4eXXXXXXbNapXXSutbFXXX size:1464827
+INFO:root:#####loading data from a2107.1#####
+INFO:root:total lines: 71422
+INFO:root:painting..
+INFO:root:12.060982
+INFO:root:a2107.1 done.
+INFO:root:####################
+INFO:root:start transform heat_a2107.1
+INFO:root:Upload Tfs file:TB1HUReXXXXXXX1apXXSutbFXXX size:126535
+INFO:root:#####loading data from a2107.1#####
+INFO:root:total lines: 71422
+INFO:root:painting..
+INFO:root:#####loading data from a2107.1#####
+INFO:root:total lines: 71422
+INFO:root:painting..
+INFO:root:12.217503
+INFO:root:a2107.1 done.
+INFO:root:####################
+INFO:root:start transform heat_a2107.1
+INFO:root:Upload Tfs file:TB1dOlfXXXXXXaqXFXXSutbFXXX size:126535
+INFO:root:#####loading data from a2107.1#####
+INFO:root:total lines: 71422
+INFO:root:painting..
+INFO:root:#####loading data from a2126.6847425#####
+INFO:root:total lines: 5363
+INFO:root:painting..
+INFO:root:16.234486
+INFO:root:a2126.6847425 done.
+INFO:root:####################
+INFO:root:start transform heat_a2126.6847425
+INFO:root:Upload Tfs file:TB1AOBfXXXXXXcHXVXXSutbFXXX size:113265
+INFO:root:#####loading data from 1.6659421#####
+INFO:root:total lines: 582340
+INFO:root:painting..
+INFO:root:86.261105
+INFO:root:1.6659421 done.
+INFO:root:####################
+INFO:root:start transform heat_1.6659421
+INFO:root:Upload Tfs file:TB1P6FfXXXXXXbJXFXXSutbFXXX size:1464827
+INFO:root:#####loading data from a1z0d.6639537#####
+INFO:root:total lines: 659873
+INFO:root:painting..
+INFO:root:118.313917
+INFO:root:a1z0d.6639537 done.
+INFO:root:####################
+INFO:root:start transform heat_a1z0d.6639537
+INFO:root:Upload Tfs file:TB1sGlfXXXXXXaocpXXSutbFXXX size:2305577
+INFO:root:#####loading data from a210c.1#####
+INFO:root:total lines: 335185
+INFO:root:painting..
+INFO:root:52.224363
+INFO:root:a210c.1 done.
+INFO:root:####################
+INFO:root:start transform heat_a210c.1
+INFO:root:Upload Tfs file:TB12VNfXXXXXXbIcVXXSutbFXXX size:954611
